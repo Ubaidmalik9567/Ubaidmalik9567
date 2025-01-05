@@ -18,13 +18,16 @@ I'm **Ubaid ur Rehman**, and I'm thrilled to connect with you. Here's a little a
   - **GitHub**: [github.com/Ubaidmalik9567](https://github.com/Ubaidmalik9567)  
 
 - 🚀 **Areas of Expertise and Interests**:  
-  - Data Analysis  
-  - Data Science  
-  - Statistics  
+  - Data Science
+  - Data Analysis
+  - MLOps  
   - Python Programming  
 
 - 🌟 **Belief in Lifelong Learning**:  
   - I embrace every opportunity to acquire knowledge and explore new domains.  
   - My enthusiasm for data-driven challenges knows no bounds.  
 
-Let’s embark on an exciting journey and create something remarkable together!  
+- 📄 **Professional Experience**:  
+  - Available upon request.  
+
+Let’s embark on an exciting journey and create something remarkable together!   

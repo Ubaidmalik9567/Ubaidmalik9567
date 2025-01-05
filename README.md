@@ -1,4 +1,4 @@
-# 👋 Greetings!  
+# 👋 Hi there! 
 
 I'm **Ubaid ur Rehman**, and I'm thrilled to connect with you. Here's a little about me:  
 

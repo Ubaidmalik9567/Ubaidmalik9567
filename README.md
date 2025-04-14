@@ -15,7 +15,9 @@ I'm **Ubaid ur Rehman**, and I'm thrilled to connect with you. Here's a little a
 
 - 📫 **Let’s Connect**:  
   - **Email**: ubaidurrehman9567@gmail.com  
-  - **GitHub**: [github.com/Ubaidmalik9567](https://github.com/Ubaidmalik9567)  
+  - **GitHub**: [github.com/Ubaidmalik9567](https://github.com/Ubaidmalik9567)
+  - **LinkedIn**: [www.linkedin.com/in/ubaid-ur-rehman-592682331](https://www.linkedin.com/in/ubaid-ur-rehman-592682331)
+
 
 - 🚀 **Areas of Expertise and Interests**:  
   - Data Science

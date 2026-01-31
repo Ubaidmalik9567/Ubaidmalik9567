@@ -20,10 +20,10 @@ I'm **Ubaid ur Rehman**, and I'm thrilled to connect with you. Here's a little a
 
 
 - 🚀 **Areas of Expertise and Interests**:  
+  - MLOPs
   - Data Science
   - Data Analysis
-  - MLOps  
-  - Python Programming  
+  - Business Analytics
 
 - 🌟 **Belief in Lifelong Learning**:  
   - I embrace every opportunity to acquire knowledge and explore new domains.  

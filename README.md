@@ -10,8 +10,7 @@ My interest lies not only in developing machine learning models, but also in des
 
 I analyze business processes, identify AI opportunities, define functional and technical requirements, measure AI project success, and translate complex business problems into practical AI solutions.
 
-From predictive APIs to LLM-based applications, I enjoy working across the full AI lifecycle - from data exploration and feature engineering to deployment, monitoring, and optimization.
-
+From predictive APIs to LLM-based applications, I work across the full AI lifecycle - from data exploration and feature engineering to deployment, monitoring, and optimization.
 
 ## 🌱 Lifelong Learner
 
@@ -42,8 +41,7 @@ Alongside model development, I focus on:
 - Production-ready AI deployment  
 - Performance evaluation and outcome measurement  
 
-This balance enables me to contribute both as a technical AI developer and as a systems-oriented analyst.
-
+This balance enables me to contribute as both a technical AI practitioner and a systems-oriented analyst.
 
 ## 🚀 Areas of Applied AI & Systems Expertise
 
@@ -75,7 +73,7 @@ Git • Postman
 
 ## 🌟 Belief in Lifelong Learning
 
-I embrace every opportunity to grow through research, real-world projects, and continuous academic development.  
+I continuously refine my expertise through research, real-world projects, and structured learning.
 I am particularly interested in roles that combine data science, AI strategy, and system-level problem solving.
 
 ## 📫 Let’s Connect

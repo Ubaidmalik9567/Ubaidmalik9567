@@ -2,7 +2,6 @@
 
 I'm **Ubaid ur Rehman**, and I'm thrilled to connect with you. Here's a little about me:
 
----
 
 ## 👀 Passionate about Data Science & AI-Driven Solutions
 
@@ -13,7 +12,6 @@ I analyze business processes, identify AI opportunities, define requirements, me
 
 From predictive APIs to LLM-based applications, I enjoy working across the full lifecycle — from data exploration to deployment, evaluation, and optimization.
 
----
 
 ## 🌱 Lifelong Learner
 
@@ -27,7 +25,6 @@ With a background in **Software Engineering** and hands-on experience in **Machi
 
 I actively refine both my technical expertise and my ability to bridge business needs with AI implementation.
 
----
 
 ## 💞️ Bridging Business & AI
 
@@ -46,7 +43,6 @@ Alongside model development, I focus on:
 
 This balance allows me to contribute both as a technical AI contributor and as a business-oriented AI analyst.
 
----
 
 ## 🚀 Areas of Expertise & Interest
 
@@ -66,7 +62,6 @@ This balance allows me to contribute both as a technical AI contributor and as a
 - AI Project Impact Measurement
 - End-to-End AI Product Thinking
 
----
 
 ## 🛠 Tools & Technologies
 
@@ -76,14 +71,12 @@ AWS • Streamlit Cloud
 MySQL • MongoDB  
 GitHub • Postman  
 
----
 
 ## 🌟 Belief in Lifelong Learning
 
 I embrace every opportunity to acquire knowledge and explore new domains.  
 Whether through research, real-world projects, or academic advancement, I am committed to building AI systems that are technically strong, strategically aligned, and impact-driven.
 
----
 
 ## 📫 Let’s Connect
 

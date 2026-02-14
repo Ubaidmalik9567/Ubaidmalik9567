@@ -10,7 +10,7 @@ My interest lies not only in developing machine learning models, but also in des
 
 I analyze business processes, identify AI opportunities, define functional and technical requirements, measure AI project success, and translate complex business problems into practical AI solutions.
 
-From predictive APIs to LLM-based applications, I work across the full AI lifecycle - from data exploration and feature engineering to deployment, monitoring, and optimization.
+From predictive APIs to LLM-based applications, I work across the full AI lifecycle, from data ingestion to deployment, monitoring, and optimization.
 
 ## 🌱 Lifelong Learner
 
@@ -85,7 +85,7 @@ I am particularly interested in roles that combine data science, AI strategy, an
 
 ## 📄 Professional Experience
 
-Available upon request.
+Details available upon request.
 
 
 Let’s build intelligent systems that create real-world value. 🚀

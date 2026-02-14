@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Ubaid ur Rehman**, and I'm glad you're here.- Here’s a little about me.
+I'm **Ubaid ur Rehman**, and I'm glad you're here. Here’s a little about me.
 
 
 ## 👀 Passionate about Data Science & AI-Driven Solutions
@@ -15,7 +15,7 @@ From predictive APIs to LLM-based applications, I enjoy working across the full 
 
 ## 🌱 Lifelong Learner
 
-With hands-on experience in **Machine Learning, MLOps, and AI systems**, I continuously expand my knowledge in:
+With hands-on experience in **Machine Learning, Deep Learning, AI systems, and MLOps**, I focus on strengthening my expertise in:
 
 - Advanced Machine Learning techniques  
 - LLM applications and AI workflows  

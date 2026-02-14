@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Ubaid ur Rehman**, a Data Science and AI enthusiast with a strong foundation in Software Engineering. I'm thrilled to connect with you — here’s a little about me.
+I'm **Ubaid ur Rehman**, and I'm glad you're here.- Here’s a little about me.
 
 
 ## 👀 Passionate about Data Science & AI-Driven Solutions
@@ -15,12 +15,12 @@ From predictive APIs to LLM-based applications, I enjoy working across the full 
 
 ## 🌱 Lifelong Learner
 
-With hands-on experience in **Machine Learning, Deep Learning, and AI systems**, I continuously expand my knowledge in:
+With hands-on experience in **Machine Learning, MLOps, and AI systems**, I continuously expand my knowledge in:
 
 - Advanced Machine Learning techniques  
 - LLM applications and AI workflows  
 - Data-driven decision systems  
-- AI system architecture and deployment  
+- AI system architecture, deployment, and monitoring 
 - Business analysis and system optimization  
 
 I actively refine both my technical depth and my ability to bridge business requirements with intelligent system design.
@@ -44,7 +44,7 @@ Alongside model development, I focus on:
 This balance enables me to contribute both as a technical AI developer and as a systems-oriented analyst.
 
 
-## 🚀 Areas of Expertise & Interest
+## 🚀 Areas of Applied AI & Systems Expertise
 
 ### 🔹 Data Science & AI
 - Machine Learning (Supervised & Unsupervised)

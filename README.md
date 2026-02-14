@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Ubaid ur Rehman**, and I'm glad you're here. Here’s a little about me.
+I'm **Ubaid Ur Rehman**, and I'm glad you're here. Here’s a little about me.
 
 
 ## 👀 Data Science & AI for Business and Systems Impact

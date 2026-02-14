@@ -68,9 +68,9 @@ This balance enables me to contribute both as a technical AI developer and as a 
 
 Python • SQL • Power BI • Tableau • Excel  
 Scikit-learn • PyTorch • ML APIs  
-AWS • Streamlit Cloud  
+AWS • Docker • MLflow   
 MySQL • MongoDB  
-GitHub • Postman  
+Git • Postman  
 
 
 ## 🌟 Belief in Lifelong Learning

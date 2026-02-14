@@ -3,10 +3,10 @@
 I'm **Ubaid ur Rehman**, and I'm glad you're here. Here’s a little about me.
 
 
-## 👀 Passionate about Data Science & AI-Driven Solutions
+## 👀 Data Science & AI for Business and Systems Impact
 
 I explore the depths of data to uncover actionable insights and build intelligent, scalable systems.  
-My interest lies not only in developing machine learning models, but also in understanding how AI creates measurable business and operational impact.
+My interest lies not only in developing machine learning models, but also in designing AI-driven solutions that create measurable business and operational impact.
 
 I analyze business processes, identify AI opportunities, define functional and technical requirements, measure AI project success, and translate complex business problems into practical AI solutions.
 
@@ -31,7 +31,7 @@ I actively refine both my technical depth and my ability to bridge business requ
 
 I operate at the intersection of:
 
-**Business Understanding → System Analysis → Data Modeling → AI Development → Deployment → Measurable Impact**
+**Business Understanding → System Analysis → Data Modeling → AI Development → Deployment → Performance Evaluation → Measurable Impact**
 
 Alongside model development, I focus on:
 
@@ -76,8 +76,7 @@ Git • Postman
 ## 🌟 Belief in Lifelong Learning
 
 I embrace every opportunity to grow through research, real-world projects, and continuous academic development.  
-My goal is to build AI systems that are technically rigorous, strategically aligned, and impactful in real-world environments.
-
+I am particularly interested in roles that combine data science, AI strategy, and system-level problem solving.
 
 ## 📫 Let’s Connect
 
